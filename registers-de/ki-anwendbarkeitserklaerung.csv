@@ -1,0 +1,39 @@
+Kennung,Kontrolle,Anhang A,Anwendbar,Begründung der Aufnahme,Grund des Ausschlusses,Begründung des Ausschlusses,Umsetzungsstand,Fundstelle
+A.2.2,KI-Politik,A.2,Ja,Leitdokument des KI-Managementsystems (Kapitel 5.2),–,–,Umgesetzt,KI-Politik 3
+A.2.3,Abstimmung mit anderen Organisationsrichtlinien,A.2,Ja,KI-Einsatz berührt Informationssicherheit und Datenschutz,–,–,Umgesetzt,KI-Politik 3
+A.2.4,Überprüfung der KI-Politik,A.2,Ja,Politik muss bei neuen Systemen und Rechtsänderungen aktuell bleiben,–,–,Umgesetzt,KI-Politik 23
+A.3.2,KI-Rollen und -Verantwortlichkeiten,A.3,Ja,"Verantwortung für Betrieb, Aufsicht und Eigenentwicklung ist zuzuweisen",–,–,Umgesetzt,KI-Politik 16
+A.3.3,Meldung von Bedenken,A.3,Ja,Beschäftigte und Dritte brauchen einen Weg für Bedenken,–,–,Umgesetzt,KI-Politik 17
+A.4.2,Ressourcendokumentation,A.4,Ja,Ressourcen je System sind für Betrieb und Abhängigkeiten zu kennen,–,–,Umgesetzt,KI-Politik 9; KI-Verzeichnis
+A.4.3,Datenressourcen,A.4,Ja,Eigene Systeme werden mit eigenen Daten trainiert,–,–,Umgesetzt,KI-Politik 9; KI-Anbieterrichtlinie 15
+A.4.4,Werkzeug-Ressourcen,A.4,Ja,Werkzeuge und Modelle von Dritten sind Teil der Systeme,–,–,Umgesetzt,KI-Politik 9
+A.4.5,System- und Rechenressourcen,A.4,Ja,Betrieb in der Cloud und im eigenen Rechenzentrum,–,–,Umgesetzt,KI-Politik 9; KI-Verzeichnis
+A.4.6,Personelle Ressourcen,A.4,Ja,"Kompetenz für Nutzung, Aufsicht und Entwicklung",–,–,Umgesetzt,KI-Politik 10
+A.5.2,Prozess zur Folgenabschätzung von KI-Systemen,A.5,Ja,"Systeme wirken auf Bewerbende, Kundschaft und Versicherte",–,–,Umgesetzt,KI-Politik 8
+A.5.3,Dokumentation der Folgenabschätzungen von KI-Systemen,A.5,Ja,Ergebnisse sind nachzuweisen und aufzubewahren,–,–,Umgesetzt,KI-Politik 8; Grundrechte-Folgenabschätzung
+A.5.4,Bewertung der Auswirkungen von KI-Systemen auf Einzelpersonen oder Personengruppen,A.5,Ja,Hochrisiko-Systeme betreffen schutzbedürftige Gruppen,–,–,Umgesetzt,KI-Politik 8; Grundrechte-Folgenabschätzung
+A.5.5,Bewertung gesellschaftlicher Auswirkungen von KI-Systemen,A.5,Ja,Gesellschaftliche Wirkung des Versicherungssystems,–,–,Teilweise umgesetzt,KI-Politik 8; Grundrechte-Folgenabschätzung
+A.6.1.2,Ziele für die verantwortungsvolle Entwicklung von KI-Systemen,A.6,Ja,Eigenentwicklung von zwei Systemen,–,–,Umgesetzt,KI-Politik 5; KI-Anbieterrichtlinie 12
+A.6.1.3,Prozesse für verantwortungsvolle Gestaltung und Entwicklung von KI-Systemen,A.6,Ja,Eigenentwicklung mit Lebenszyklus,–,–,Umgesetzt,KI-Politik 15; KI-Anbieterrichtlinie 8
+A.6.2.2,Anforderungen und Spezifikation von KI-Systemen,A.6,Ja,Anforderungen eigener Systeme,–,–,Umgesetzt,KI-Anbieterrichtlinie 9
+A.6.2.3,Dokumentation der Gestaltung und Entwicklung von KI-Systemen,A.6,Ja,Nachweis der Entwicklung für die Konformitätsbewertung,–,–,Umgesetzt,KI-Anbieterrichtlinie 11
+A.6.2.4,Verifizierung und Validierung von KI-Systemen,A.6,Ja,Freigabe nur nach Test gegen Abnahmeschwellen,–,–,Umgesetzt,KI-Anbieterrichtlinie 13
+A.6.2.5,Einführung von KI-Systemen,A.6,Ja,Inbetriebnahme eigener und zugekaufter Systeme,–,–,Umgesetzt,KI-Anbieterrichtlinie 8
+A.6.2.6,Betrieb und Überwachung von KI-Systemen,A.6,Ja,Überwachung aller Systeme im Betrieb,–,–,Umgesetzt,KI-Nutzungsrichtlinie 9; KI-Anbieterrichtlinie 17
+A.6.2.7,Technische Dokumentation von KI-Systemen,A.6,Ja,Gebrauchsanweisung und technische Dokumentation eigener Systeme,–,–,Umgesetzt,KI-Anbieterrichtlinie 6
+A.6.2.8,Aufzeichnung von Ereignisprotokollen von KI-Systemen,A.6,Ja,Protokolle für Hochrisiko-Systeme vorgeschrieben,–,–,Umgesetzt,KI-Nutzungsrichtlinie 10; KI-Anbieterrichtlinie 21
+A.7.2,Daten für Entwicklung und Verbesserung von KI-Systemen,A.7,Ja,Eigene Systeme lernen aus eigenen Daten,–,–,Umgesetzt,KI-Anbieterrichtlinie 15
+A.7.3,Beschaffung von Daten,A.7,Ja,Daten aus eigenen Beständen und von Dritten,–,–,Umgesetzt,KI-Anbieterrichtlinie 15
+A.7.4,Qualität der Daten für KI-Systeme,A.7,Ja,Datenqualität bestimmt Fairness der Bewertung,–,–,Umgesetzt,KI-Anbieterrichtlinie 15
+A.7.5,Datenherkunft,A.7,Ja,Herkunft je Datensatz für Nachvollziehbarkeit,–,–,Teilweise umgesetzt,KI-Anbieterrichtlinie 15
+A.7.6,Datenaufbereitung,A.7,Ja,Aufbereitung beeinflusst Verzerrung,–,–,Umgesetzt,KI-Anbieterrichtlinie 15
+A.8.2,Systemdokumentation und Informationen für Nutzer,A.8,Ja,Nutzende und Betreiber brauchen Informationen zum System,–,–,Umgesetzt,KI-Anbieterrichtlinie 6; KI-Kommunikationsplan
+A.8.3,Externe Berichterstattung,A.8,Ja,Berichtswege für Dritte zu Auswirkungen,–,–,Geplant,KI-Politik 17; KI-Kommunikationsplan
+A.8.4,Kommunikation von Vorfällen,A.8,Ja,Vorfälle sind intern und an Behörden zu kommunizieren,–,–,Umgesetzt,KI-Nutzungsrichtlinie 7; KI-Anbieterrichtlinie 18; KI-Kommunikationsplan
+A.8.5,Informationen für interessierte Parteien,A.8,Ja,"Behörden, Kundschaft und Betroffene erhalten Informationen",–,–,Umgesetzt,KI-Anbieterrichtlinie 19; KI-Kommunikationsplan
+A.9.2,Prozesse für die verantwortungsvolle Nutzung von KI-Systemen,A.9,Ja,Alle Beschäftigten nutzen KI-Dienste,–,–,Umgesetzt,KI-Nutzungsrichtlinie 4
+A.9.3,Ziele für die verantwortungsvolle Nutzung von KI-Systemen,A.9,Ja,Ziele für die Nutzung sind messbar festzulegen,–,–,Umgesetzt,KI-Politik 5
+A.9.4,Bestimmungsgemäße Verwendung des KI-Systems,A.9,Ja,Hochrisiko-Systeme nur nach Betriebsanleitung,–,–,Umgesetzt,KI-Nutzungsrichtlinie 4; KI-Nutzungsrichtlinie 10
+A.10.2,Zuweisung von Verantwortlichkeiten,A.10,Ja,Mehrere Parteien wirken an jedem System mit,–,–,Umgesetzt,KI-Politik 13; KI-Verzeichnis
+A.10.3,Lieferanten,A.10,Ja,Drei Systeme werden von Lieferanten bezogen,–,–,Umgesetzt,KI-Politik 14
+A.10.4,Kunden,A.10,Ja,Kundschaft interagiert mit dem Chatbot,–,–,Umgesetzt,KI-Anbieterrichtlinie 6; KI-Kommunikationsplan
