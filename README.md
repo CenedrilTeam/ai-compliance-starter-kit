@@ -4,7 +4,7 @@
 
 Each document is a fully written template with placeholders. Replace `[YOUR_ORGANISATION_NAME]` and the other placeholders, delete the sections marked in italics that do not apply to your role, review the defaults, get management approval.
 
-> **Browse with context:** The [Cenedril Wiki](https://cenedril.net/wiki/en/starter-kit/ai-compliance/) renders every document with explanations, FAQs, the obligations per role and the ISO/IEC 42001 coverage. Community contributions merged here appear on the wiki automatically.
+> **Browse with context:** The [Cenedril Wiki](https://cenedril.net/wiki/en/ki-compliance/) renders every document with explanations, FAQs, the obligations per role and the ISO/IEC 42001 coverage. Community contributions merged here appear on the wiki automatically.
 
 ## What's included
 
@@ -143,7 +143,7 @@ The AI Statement of Applicability names a reference in the kit for **38 of 38 An
 4. Delete the sections whose italic note names a role that does not apply to you.
 5. Have the policies approved by top management and publish them in your document control system.
 
-For detailed context on each document, visit the [Cenedril Wiki](https://cenedril.net/wiki/en/starter-kit/ai-compliance/).
+For detailed context on each document, visit the [Cenedril Wiki](https://cenedril.net/wiki/en/ki-compliance/).
 
 ## Contributing
 
@@ -151,7 +151,7 @@ Found a typo, an outdated article reference, or a sentence that reads awkwardly?
 
 **Want to add a language?** We maintain German and English ourselves and leave additional languages to the community. Create a new language folder (e.g. `fr/`, `registers-fr/`, `templates-fr/`) and submit a PR. We will list community translations as community-maintained versions on the wiki, clearly marked with the contributor's name.
 
-All contributions merged here are automatically reflected on [cenedril.net/wiki](https://cenedril.net/wiki/en/starter-kit/ai-compliance/).
+All contributions merged here are automatically reflected on [cenedril.net/wiki](https://cenedril.net/wiki/en/ki-compliance/).
 
 ## Licence
 
